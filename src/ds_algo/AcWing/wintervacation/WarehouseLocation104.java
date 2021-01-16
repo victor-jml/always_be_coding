@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * @Author: zy
  * @Date: 2021/1/16 18:20
- * @Description: [AcWing] 104. WarehouseLocation104
+ * @Description: [AcWing] 104. WarehouseLocation
  * https://www.acwing.com/problem/content/106/
  */
 public class WarehouseLocation104 {
