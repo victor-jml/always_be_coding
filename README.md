@@ -8,7 +8,7 @@ This is my multi-year(about 2 years) study plan for going to be a SWE for a larg
 
 ## Aim
 
-- `DataStruct `& `Algorithm`
+- `Algorithm`
 - `English`
 - `Design Pattern`
 - ...
