@@ -5,7 +5,8 @@ import java.util.Scanner;
 /**
  * @Author: zy
  * @Date: 2021/1/28 20:57
- * @Description:
+ * @Description: [AcWing] 754.SquareMatrix
+ * https://www.acwing.com/problem/content/756/
  */
 public class SquareMatrix754 {
     public static void main(String[] args) {
