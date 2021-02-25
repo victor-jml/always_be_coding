@@ -9,6 +9,9 @@ This is my multi-year(about 2 years) study plan for going to be a SWE for a larg
 ## Aim
 
 - `Algorithm`
+- `Computer Organization`
+- `Computer Network`
+- `OS`
 - `English`
 - `Design Pattern`
 - ...
@@ -16,6 +19,7 @@ This is my multi-year(about 2 years) study plan for going to be a SWE for a larg
 ## How To Do
 
 - One algorithm problem(Every day  or Two)
+- Watch CSAPP & Finish labs
 - Read some `Design Pattern` books & Do exercises for reinforcement learning
 - Reading English Document
 - ...
